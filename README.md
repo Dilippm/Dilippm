@@ -10,7 +10,7 @@ I'm a passionate MERN Stack Developer with a keen interest in developing web app
 
 ### 🌱 I'm Currently Learning:
 
-- Next JS 13
+- Docker
 - Typescript
 
 
